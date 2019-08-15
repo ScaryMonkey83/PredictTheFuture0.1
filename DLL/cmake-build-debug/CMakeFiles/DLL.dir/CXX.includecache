@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/jaleh/Desktop/Predict Versions/PredictTheFuture0.1/DLL/library.cpp
+library.h
+C:/Users/jaleh/Desktop/Predict Versions/PredictTheFuture0.1/DLL/library.h
+iostream
+-
+
+C:/Users/jaleh/Desktop/Predict Versions/PredictTheFuture0.1/DLL/library.h
+

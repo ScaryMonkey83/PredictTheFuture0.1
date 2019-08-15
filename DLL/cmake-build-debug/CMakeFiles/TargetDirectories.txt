@@ -1,0 +1,3 @@
+C:/Users/jaleh/Desktop/Predict Versions/PredictTheFuture0.1/DLL/cmake-build-debug/CMakeFiles/DLL.dir
+C:/Users/jaleh/Desktop/Predict Versions/PredictTheFuture0.1/DLL/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/jaleh/Desktop/Predict Versions/PredictTheFuture0.1/DLL/cmake-build-debug/CMakeFiles/rebuild_cache.dir

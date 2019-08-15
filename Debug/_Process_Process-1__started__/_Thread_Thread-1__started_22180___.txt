@@ -1,0 +1,270 @@
+
+2019-05-07 21:02:52.223439  Retrieving wiki data...
+  Inserting SP stock data into database...
+  MMM
+  MMM already has a column in stock_data
+         MMM success
+  ABT
+  ABT already has a column in stock_data
+         ABT success
+  ABBV
+  ABBV already has a column in stock_data
+         ABBV success
+  ABMD
+  ABMD already has a column in stock_data
+         ABMD success
+  ACN
+  ACN already has a column in stock_data
+         ACN success
+  ATVI
+  ATVI already has a column in stock_data
+         ATVI success
+  ADBE
+  ADBE already has a column in stock_data
+         ADBE success
+  AMD
+  AMD already has a column in stock_data
+         AMD success
+  AAP
+  AAP already has a column in stock_data
+         AAP success
+  AES
+  AES already has a column in stock_data
+         AES success
+  AMG
+  AMG already has a column in stock_data
+         AMG success
+  AFL
+  AFL already has a column in stock_data
+         AFL success
+  A
+  A already has a column in stock_data
+         A success
+  APD
+  APD already has a column in stock_data
+         APD success
+  AKAM
+  AKAM already has a column in stock_data
+         AKAM success
+  ALK
+  ALK already has a column in stock_data
+         ALK success
+  ALB
+  ALB already has a column in stock_data
+         ALB success
+  ARE
+  ARE already has a column in stock_data
+         ARE success
+  ALXN
+  ALXN already has a column in stock_data
+         ALXN success
+  ALGN
+  ALGN already has a column in stock_data
+         ALGN success
+  ALLE
+  ALLE already has a column in stock_data
+         ALLE success
+  AGN
+  AGN already has a column in stock_data
+         AGN success
+  ADS
+  ADS already has a column in stock_data
+         ADS success
+  LNT
+  LNT already has a column in stock_data
+         LNT success
+  ALL
+  ALL already has a column in stock_data
+         ALL success
+  GOOGL
+  GOOGL already has a column in stock_data
+         GOOGL success
+  GOOG
+  GOOG already has a column in stock_data
+         GOOG success
+  MO
+  MO already has a column in stock_data
+         MO success
+  AMZN
+  AMZN already has a column in stock_data
+         AMZN success
+  AEE
+  AEE already has a column in stock_data
+         AEE success
+  AAL
+  AAL already has a column in stock_data
+         AAL success
+  AEP
+  AEP already has a column in stock_data
+         AEP success
+  AXP
+  AXP already has a column in stock_data
+         AXP success
+  AIG
+  AIG already has a column in stock_data
+         AIG success
+  AMT
+  AMT already has a column in stock_data
+         AMT success
+  AWK
+  AWK already has a column in stock_data
+         AWK success
+  AMP
+  AMP already has a column in stock_data
+         AMP success
+  ABC
+  ABC already has a column in stock_data
+         ABC success
+  AME
+  AME already has a column in stock_data
+         AME success
+  AMGN
+  AMGN already has a column in stock_data
+         AMGN success
+  APH
+  APH already has a column in stock_data
+         APH success
+  APC
+  APC already has a column in stock_data
+         APC success
+  ADI
+  ADI already has a column in stock_data
+         ADI success
+  ANSS
+  ANSS already has a column in stock_data
+         ANSS success
+  ANTM
+  ANTM already has a column in stock_data
+         ANTM success
+  AON
+  AON already has a column in stock_data
+         AON success
+  AOS
+  AOS already has a column in stock_data
+         AOS success
+  APA
+  APA already has a column in stock_data
+         APA success
+  AIV
+  AIV already has a column in stock_data
+         AIV success
+  AAPL
+  AAPL already has a column in stock_data
+         AAPL success
+  AMAT
+  AMAT already has a column in stock_data
+         AMAT success
+  APTV
+  APTV already has a column in stock_data
+         APTV success
+  ADM
+  ADM already has a column in stock_data
+         ADM success
+  ARNC
+  ARNC already has a column in stock_data
+         ARNC success
+  ANET
+  ANET already has a column in stock_dataTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERS
+         ANET success
+  AJG
+  AJG already has a column in stock_data
+         AJG success
+  AIZ
+  AIZ already has a column in stock_data
+         AIZ success
+  ATO
+  ATO already has a column in stock_data
+         ATO success
+  T
+  T already has a column in stock_data
+         T success
+  ADSK
+  ADSK already has a column in stock_data
+         ADSK success
+  ADP
+  ADP already has a column in stock_data
+         ADP success
+  AZO
+  AZO already has a column in stock_data
+         AZO success
+  AVB
+  AVB already has a column in stock_data
+         AVB success
+  AVY
+  AVY already has a column in stock_data
+         AVY success
+  BHGE
+  BHGE already has a column in stock_data
+         BHGE success
+  BLL
+  BLL already has a column in stock_data
+         BLL success
+  BAC
+  BAC already has a column in stock_data
+         BAC success
+  BK
+  BK already has a column in stock_data
+         BK success
+  BAX
+  BAX already has a column in stock_data
+         BAX success
+  BBT
+  BBT already has a column in stock_data
+         BBT success
+  BDX
+  BDX already has a column in stock_data
+         BDX success
+  BRK-B
+  BRK-B already has a column in stock_data
+         BRK-B success
+  BBY
+  BBY already has a column in stock_data
+         BBY success
+  BIIB
+  BIIB already has a column in stock_data
+         BIIB success
+  BLK
+  BLK already has a column in stock_data
+         BLK success
+  HRB
+  HRB already has a column in stock_data
+         HRB success
+  BA
+  BA already has a column in stock_data
+         BA success
+  BKNG
+  BKNG already has a column in stock_data
+         BKNG success
+  BWA
+  BWA already has a column in stock_data
+         BWA success
+  BXP
+  BXP already has a column in stock_data
+         BXP success
+  BSX
+  BSX already has a column in stock_data
+         BSX success
+  BMY
+  BMY already has a column in stock_data
+         BMY success
+  AVGO
+  AVGO already has a column in stock_data
+         AVGO success
+  BR
+  BR already has a column in stock_data
+         BR success
+  BF-B
+  BF-B already has a column in stock_data
+         BF-B success

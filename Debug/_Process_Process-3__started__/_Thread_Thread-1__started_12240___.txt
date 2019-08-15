@@ -1,0 +1,540 @@
+
+2019-05-07 21:02:55.368036  Retrieving wiki data...
+  Inserting SP stock data into database...
+  NOV
+  NOV already has a column in stock_data
+         NOV success
+  NKTR
+  NKTR already has a column in stock_data
+         NKTR success
+  NTAP
+  NTAP already has a column in stock_data
+         NTAP success
+  NFLX
+  NFLX already has a column in stock_data
+         NFLX success
+  NWL
+  NWL already has a column in stock_data
+         NWL success
+  NEM
+  NEM already has a column in stock_data
+         NEM success
+  NWSA
+  NWSA already has a column in stock_data
+         NWSA success
+  NWS
+  NWS already has a column in stock_data
+         NWS success
+  NEE
+  NEE already has a column in stock_data
+         NEE success
+  NLSN
+  NLSN already has a column in stock_data
+         NLSN success
+  NKE
+  NKE already has a column in stock_data
+         NKE success
+  NI
+  NI already has a column in stock_data
+         NI success
+  NBL
+  NBL already has a column in stock_data
+         NBL success
+  JWN
+  JWN already has a column in stock_data
+         JWN success
+  NSC
+  NSC already has a column in stock_data
+         NSC success
+  NTRS
+  NTRS already has a column in stock_data
+         NTRS success
+  NOC
+  NOC already has a column in stock_data
+         NOC success
+  NCLH
+  NCLH already has a column in stock_data
+         NCLH success
+  NRG
+  NRG already has a column in stock_data
+         NRG success
+  NUE
+  NUE already has a column in stock_data
+         NUE success
+  NVDA
+  NVDA already has a column in stock_data
+         NVDA success
+  ORLY
+  ORLY already has a column in stock_data
+         ORLY success
+  OXY
+  OXY already has a column in stock_data
+         OXY success
+  OMC
+  OMC already has a column in stock_data
+         OMC success
+  OKE
+  OKE already has a column in stock_data
+         OKE success
+  ORCL
+  ORCL already has a column in stock_data
+         ORCL success
+  PCAR
+  PCAR already has a column in stock_data
+         PCAR success
+  PKG
+  PKG already has a column in stock_data
+         PKG success
+  PH
+  PH already has a column in stock_data
+         PH success
+  PAYX
+  PAYX already has a column in stock_data
+         PAYX success
+  PYPL
+  PYPL already has a column in stock_dataTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERS
+         PYPL success
+  PNR
+  PNR already has a column in stock_data
+         PNR success
+  PBCT
+  PBCT already has a column in stock_data
+         PBCT success
+  PEP
+  PEP already has a column in stock_data
+         PEP success
+  PKI
+  PKI already has a column in stock_data
+         PKI success
+  PRGO
+  PRGO already has a column in stock_data
+         PRGO success
+  PFE
+  PFE already has a column in stock_data
+         PFE success
+  PM
+  PM already has a column in stock_data
+         PM success
+  PSX
+  PSX already has a column in stock_data
+         PSX success
+  PNW
+  PNW already has a column in stock_data
+         PNW success
+  PXD
+  PXD already has a column in stock_data
+         PXD success
+  PNC
+  PNC already has a column in stock_data
+         PNC success
+  RL
+  RL already has a column in stock_data
+         RL success
+  PPG
+  PPG already has a column in stock_data
+         PPG success
+  PPL
+  PPL already has a column in stock_data
+         PPL success
+  PFG
+  PFG already has a column in stock_data
+         PFG success
+  PG
+  PG already has a column in stock_data
+         PG success
+  PGR
+  PGR already has a column in stock_data
+         PGR success
+  PLD
+  PLD already has a column in stock_data
+         PLD success
+  PRU
+  PRU already has a column in stock_data
+         PRU success
+  PEG
+  PEG already has a column in stock_data
+         PEG success
+  PSA
+  PSA already has a column in stock_data
+         PSA success
+  PHM
+  PHM already has a column in stock_data
+         PHM success
+  PVH
+  PVH already has a column in stock_data
+         PVH success
+  QRVO
+  QRVO already has a column in stock_dataTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERSTHERE IS SOMETHING SERIOUSLY WRONG WITH THE DATE AND
+                                        YAHOO IS BEING A TOTAL WHORE AND YOU REALLY NEED TO
+                                         PAY SOMEONE WHO KNOWS WHAT THEY ARE DOING TO GIVE YOU
+                                         STABLE NUMBERS
+         QRVO success
+  PWR
+  PWR already has a column in stock_data
+         PWR success
+  QCOM
+  QCOM already has a column in stock_data
+         QCOM success
+  DGX
+  DGX already has a column in stock_data
+         DGX success
+  RJF
+  RJF already has a column in stock_data
+         RJF success
+  RTN
+  RTN already has a column in stock_data
+         RTN success
+  O
+  O already has a column in stock_data
+         O success
+  RHT
+  RHT already has a column in stock_data
+         RHT success
+  REG
+  REG already has a column in stock_data
+         REG success
+  REGN
+  REGN already has a column in stock_data
+         REGN success
+  RF
+  RF already has a column in stock_data
+         RF success
+  RSG
+  RSG already has a column in stock_data
+         RSG success
+  RMD
+  RMD already has a column in stock_data
+         RMD success
+  RHI
+  RHI already has a column in stock_data
+         RHI success
+  ROK
+  ROK already has a column in stock_data
+         ROK success
+  ROL
+  ROL already has a column in stock_data
+         ROL success
+  ROP
+  ROP already has a column in stock_data
+         ROP success
+  ROST
+  ROST already has a column in stock_data
+         ROST success
+  RCL
+  RCL already has a column in stock_data
+         RCL success
+  CRM
+  CRM already has a column in stock_data
+         CRM success
+  SBAC
+  SBAC already has a column in stock_data
+         SBAC success
+  SLB
+  SLB already has a column in stock_data
+         SLB success
+  STX
+  STX already has a column in stock_data
+         STX success
+  SEE
+  SEE already has a column in stock_data
+         SEE success
+  SRE
+  SRE already has a column in stock_data
+         SRE success
+  SHW
+  SHW already has a column in stock_data
+         SHW success
+  SPG
+  SPG already has a column in stock_data
+         SPG success
+  SWKS
+  SWKS already has a column in stock_data
+         SWKS success
+  SLG
+  SLG already has a column in stock_data
+         SLG success
+  SNA
+  SNA already has a column in stock_data
+         SNA success

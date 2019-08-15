@@ -1,0 +1,73 @@
+
+
+2019-05-07 20:49:35.834767
+Logging into Google...
+
+2019-05-07 20:50:39.177269
+Logging into Google...
+
+2019-05-07 20:51:08.539020
+Logging into Google...
+
+2019-05-07 20:51:44.561068
+Logging into Google...
+
+2019-05-07 20:52:15.217305
+Logging into Google...
+
+2019-05-07 20:53:27.589503
+Logging into Google...
+
+2019-05-07 20:53:47.757561
+Logging into Google...
+
+2019-05-07 20:59:48.997931
+Logging into Google...
+
+2019-05-07 21:02:10.690705
+Logging into Google...
+Searching terms...
+    ('amazon',)
+    ('best shoes',)
+    ('best snowboard',)
+    ('best socks',)
+    ('best stocks',)
+    ('big data',)
+    ('data',)
+    ('easy',)
+    ('how is the market',)
+    ('how to buy stock',)
+    ('how to invest',)
+    ('ice hockey',)
+    ('market standard',)
+    ('peck',)
+    ('peck app',)
+    ('select',)
+    ('top 10 stocks to buy',)
+    ('top ten stocks to buy',)
+    ('toxic',)
+    ('what is investing',)
+Refining data...
+Retrieving dates...
+Inserting dates...
+Inserting search data...
+   ('amazon') search column already exists
+   ('best shoes') search column already exists
+   ('best snowboard') search column already exists
+   ('best socks') search column already exists
+   ('best stocks') search column already exists
+   ('big data') search column already exists
+   ('data') search column already exists
+   ('easy') search column already exists
+   ('how is the market') search column already exists
+   ('how to buy stock') search column already exists
+   ('how to invest') search column already exists
+   ('ice hockey') search column already exists
+   ('market standard') search column already exists
+   ('peck') search column already exists
+   ('peck app') search column already exists
+   ('select') search column already exists
+   ('top 10 stocks to buy') search column already exists
+   ('top ten stocks to buy') search column already exists
+   ('toxic') search column already exists
+   ('what is investing') search column already exists
